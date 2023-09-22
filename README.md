@@ -11,10 +11,11 @@ Made with🔗
 HTML	CSS	Javascript
 ---------------------
 Hope this  converter helped you 😊
-
+--------------------------------
 For more queries :
 Feel free to contact me
 📩bhsita18@gmail.com
+---------------------------------------
 https://www.linkedin.com/in/sita280603
-
-
+--------------------------------------
+-
